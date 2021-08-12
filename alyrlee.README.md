@@ -7,7 +7,7 @@
 
 
 - <a href="https://www.instagram.com/ashleyloreal_lee/"><img src="https://img.shields.io/badge/instagram%20@ashleyloreal_lee?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.linkedin.com/in/ashley-r-lee/"><img src="https://img.shields.io/badge/linkedin%20@ashley-r-lee?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+- <a href="https://www.linkedin.com/in/ashley-r-lee/"><img src="https://img.shields.io/badge/linkedin%20@ashleyrlee?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="https://webflow.com/design/ashleys-portfolio-4816d7"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20webflow.com/design/ashleys-portfolio-4816d7?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
