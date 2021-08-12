@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I'm from Chicago, aspiring entrepreneur: ashley-lee.com
 
 
-- <a href="https://www.instagram.com/ashleyloreal_lee/"><img src="https://img.shields.io/badge/Instagram:instagram%20@ashleyloreal_lee?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://www.instagram.com/ashleyloreal_lee/"><img src="https://img.shields.io/badge/instagram%20@ashleyloreal_lee?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.linkedin.com/in/ashley-r-lee/"><img src="https://img.shields.io/badge/linkedin%20@ashley-r-lee?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 - <a href="https://webflow.com/design/ashleys-portfolio-4816d7"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20webflow.com/design/ashleys-portfolio-4816d7?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
@@ -20,12 +20,11 @@
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![postgresql](https://img.shields.io/badge/-postgresql-grey?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![javascript](https://img.shields.io/badge/-javascript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
