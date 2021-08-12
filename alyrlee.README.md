@@ -16,9 +16,6 @@ I am a project manager with a proven ability to adapt rapidly to new technology.
 
 [![Ashley's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyrlee)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee)](https://github.com/alyrlee/github-readme-stats)
-
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ashleylee" id="counter">
 </p>
