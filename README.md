@@ -8,7 +8,7 @@ I am a project manager with a proven ability to adapt rapidly to new technology.
 
 📫 Reach me via email: [ashley@ashley-lee.com](mailto:ashley@ashley-lee.com)
 
-📲 Call Me here: (985) 402-1308
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/alyrlee/github-readme-stats)
 
