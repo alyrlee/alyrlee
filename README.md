@@ -2,7 +2,7 @@ I am a IT professional with a proven ability to adapt rapidly to new technology.
 
 👀 View my portfolio here: [Portfolio](https://webflow.com/design/ashleys-portfolio-4816d7)
 
-📝 Check my resume out here: [Ashley's Resume](https://docs.google.com/document/d/1r62t5hfLTg64pTZmsfKf3Y0NXOP4lTEKvtGKAXEud1A/edit?usp=sharing)
+📝 Check my resume out here: [Ashley's Resume] Email me for latest version
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-jason-humphrey/)
 
