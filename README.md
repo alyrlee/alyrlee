@@ -4,9 +4,9 @@ I am a IT professional with a proven ability to adapt rapidly to new technology.
 
 📝 Check my resume out here: [Ashley's Resume] Email me for latest version
 
-💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-jason-humphrey/)
+💬 Message me here: [Linkedin](https://www.linkedin.com/in/ashley-r-lee/)
 
-📫 Reach me via email: [ashley@ashley-lee.com](mailto:ashley@ashley-lee.com)
+📫 Reach me via email: [ashley.lee.developer@gmail.com(mailto:ashley.lee.developer@gmail.com)
 
 
 
