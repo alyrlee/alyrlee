@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I’m Ashley Lee-Vigneau  
 
 I’m a **Technical Product & Program Manager** with 6 years of experience in **cloud infrastructure, DevOps, data analytics, and product management** across healthcare, technology, and operations. My work bridges **engineering, compliance, and strategy**, helping organizations modernize infrastructure, improve efficiency, and deliver measurable impact.  
@@ -22,7 +21,7 @@ I’m a **Technical Product & Program Manager** with 6 years of experience in **
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
 
 ---
@@ -38,14 +37,19 @@ I’m a **Technical Product & Program Manager** with 6 years of experience in **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-lee-vigneau/)  
 📧 Email: **ashleyloreal.lee@gmail.com**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/alyrlee/github-readme-stats)
+---
 
-![Ashley's github stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark)
+## 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Ashley's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyrlee)](https://git.io/streak-stats)
+![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark)  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyrlee)](https://git.io/streak-stats)  
+
+---
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ashleylee" id="counter">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alyrlee" alt="visitor badge"/>
 </p>
-⭐️ From [ashleylee](https://github.com/alyrlee)
-```
+
+⭐️ From [alyrlee](https://github.com/alyrlee)  
