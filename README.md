@@ -6,9 +6,6 @@ I am a IT professional with a proven ability to adapt rapidly to new technology.
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/ashley-r-lee/)
 
-📫 Reach me via email: [ashley.lee.developer@gmail.com(mailto:ashley.lee.developer@gmail.com)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/alyrlee/github-readme-stats)
 
