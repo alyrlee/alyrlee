@@ -37,7 +37,6 @@ I’m a **Technical Product & Program Manager** with 6 years of experience in **
 ## 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-lee-vigneau/)  
 📧 Email: **ashleyloreal.lee@gmail.com**  
-```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/alyrlee/github-readme-stats)
 
@@ -49,3 +48,4 @@ I’m a **Technical Product & Program Manager** with 6 years of experience in **
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ashleylee" id="counter">
 </p>
 ⭐️ From [ashleylee](https://github.com/alyrlee)
+```
