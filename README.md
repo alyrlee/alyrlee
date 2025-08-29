@@ -22,7 +22,6 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
 
 ---
 
