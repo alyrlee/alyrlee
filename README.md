@@ -5,7 +5,7 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 ---
 
 ## 🚀 About Me  
-- 🌐 **Platform Product Owner @ UPMC Health Plan** – delivering HIPAA/HITRUST-compliant healthcare data and infrastructure solutions.  
+- 🌐 **Platform Product Owner/Product Manager** – delivering HIPAA/HITRUST-compliant healthcare data and infrastructure solutions.  
 - 🏗️ Led **DevOps & product modernization projects** using **Azure DevOps, Snowflake, Databricks, and AWS**.  
 - 📈 Improved development team **sprint velocity by 15%** and automated workflows saving **10% of workforce time**.  
 - 🤝 Experienced working with executives to align vision with execution, backed by dashboards, KPIs, and analytics.  
