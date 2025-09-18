@@ -47,7 +47,7 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 ---
 ## Visitor Badge
 
-![Hits](https://hitscounter.dev/count/tag.svg?url=github.com%2Falyrlee%2Falyrlee&title=Profile%20Views)](https://hitscounter.dev)
+![Hits](https://hitscounter.dev/count/tag.svg?url=github.com%2Falyrlee%2Falyrlee&title=Profile%20Views)
 
 
 ⭐️ From [alyrlee](https://github.com/alyrlee)  
