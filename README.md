@@ -40,14 +40,20 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact&cache_seconds=7200)
-![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark&cache_seconds=7200)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact&cache_seconds=7200&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
+![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark&cache_seconds=7200&v=1)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alyrlee&date_format=M%20j%5B%2C%20Y%5D&v=1)](https://git.io/streak-stats)
 
 ---
-## Visitor Badge
 
-![Hits](https://hitscounter.dev/count/tag.svg?url=github.com%2Falyrlee%2Falyrlee&title=Profile%20Views)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=alyrlee.alyrlee&label=visitors&countColor=%23263759" alt="visitor badge"/>
+</p>
 
+ [![Hits](https://hitscounter.dev/count/tag.svg?url=github.com%2Falyrlee%2Falyrlee&title=Profile%20Views)](https://hitscounter.dev) 
+
+---
 
 ⭐️ From [alyrlee](https://github.com/alyrlee)  
