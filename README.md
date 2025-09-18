@@ -38,17 +38,28 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 
 ---
 
-## 📊 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+## 📊 GitHub Stats
 
-![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark)  
+<!-- Top languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyrlee&layout=compact&cache_seconds=7200)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alyrlee)](https://git.io/streak-stats)  
+<!-- Core stats -->
+![Ashley’s GitHub stats](https://github-readme-stats.vercel.app/api?username=alyrlee&show_icons=true&theme=dark&cache_seconds=7200)
+
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alyrlee)](https://git.io/streak-stats)
 
 ---
 
+<!-- Visitor badge (choose ONE of the two below) -->
+
+<!-- Option A: visitorbadge.io -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alyrlee" alt="visitor badge"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=alyrlee.alyrlee&label=visitors&countColor=%23263759" alt="visitor badge"/>
 </p>
+
+<!-- Option B: hitscounter.dev -->
+<!-- [![Hits](https://hitscounter.dev/count/tag.svg?url=github.com%2Falyrlee%2Falyrlee&title=Profile%20Views)](https://hitscounter.dev) -->
+
 
 ⭐️ From [alyrlee](https://github.com/alyrlee)  
