@@ -34,7 +34,7 @@ I’m a **Technical Product Manager** with 6 years of experience in **cloud infr
 
 ## 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-lee-vigneau/)  
-📧 Email: **ashleyloreal.lee@gmail.com**  
+ 
 
 ---
 
