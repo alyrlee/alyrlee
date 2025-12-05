@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ashley Lee-Vigneau  
+# 👋 Hi, I’m Ashley.
 
 I’m a **Technical Product Manager** with 6 years of experience in **cloud infrastructure, DevOps, data analytics, and product management** across healthcare, technology, and operations. My work bridges **engineering, compliance, and strategy**, helping organizations modernize infrastructure, improve efficiency, and deliver measurable impact.  
 
